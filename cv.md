@@ -43,7 +43,7 @@
         <ul>
             <li>2005 - 2010 - Economic cybernetics</li>
         </ul>
-    <p style="font-size:2em;"><strong>Langauge</strong></p>
+    <p style="font-size:2em;"><strong>Language</strong></p>
         <ul>
             <li>Ukraine - Native</li>
             <li>Russian - Native</li>
