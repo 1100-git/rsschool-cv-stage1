@@ -34,9 +34,9 @@
             <li><strong>CSS</strong></li>
         </ul>
     <p style="font-size:2em;"><strong>Code ex</strong></p>
-        <ul>
-            <li>[No code found here]</li>
-        </ul>
+<code>const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+  return distanceToPump/mpg <= fuelLeft
+};</code>
     <p style="font-size:2em;"><strong>Work</strong></p>
      <ul>
             <li><strong>2010 - 2011</strong> - PC operator</li>
