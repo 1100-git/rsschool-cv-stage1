@@ -33,7 +33,7 @@
             <li><strong>HTML</strong></li>
             <li><strong>CSS</strong></li>
         </ul>
-    <p style="font-size:2em;"><strong>Code</strong></p>
+    <p style="font-size:2em;"><strong>Code ex</strong></p>
         <ul>
             <li>[No code found here]</li>
         </ul>
@@ -50,8 +50,8 @@
     <p style="font-size:2em;"><strong>Language</strong></p>
         <ul>
             <li>Ukraine - Native</li>
-            <li>Russian - Native</li>
             <li>English - A2</li>
+            <li>Russian - heard</li>
         </ul>
 </body>
 </html>
