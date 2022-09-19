@@ -33,6 +33,10 @@
             <li><strong>HTML</strong></li>
             <li><strong>CSS</strong></li>
         </ul>
+    <p style="font-size:2em;"><strong>Code</strong></p>
+        <ul>
+            <li>[No code found here]</li>
+        </ul>
     <p style="font-size:2em;"><strong>Work</strong></p>
      <ul>
             <li><strong>2010 - 2011</strong> - PC operator</li>
