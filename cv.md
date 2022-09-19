@@ -46,6 +46,8 @@
     <p style="font-size:2em;"><strong>Education</strong></p>
         <ul>
             <li>2005 - 2010 - Economic cybernetics</li>
+            <li>2010 - 2022 - Self Education</li>
+            <li><strong>2022</strong> - Tried to learn JS with RSS</li>
         </ul>
     <p style="font-size:2em;"><strong>Language</strong></p>
         <ul>
